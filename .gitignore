@@ -1,0 +1,21 @@
+# Virtualenv и кеши
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Большой raw-файл — раскомментируйте, если не хотите коммитить 30 МБ
+# data/raw/coffee_beans_parsed.csv
